@@ -1,5 +1,21 @@
-# Target-Inference-in-Argument-Conclusion-Generation
-Target Inference in Argument Conclusion Generation
+# Paper: Target Inference in Conclusion Generation
+
+This is the code for the paper *Target Inference in Conclusion Generation*.
+
+Milad Alshomary, Shahbaz Syed, Martin Potthast and Henning Wachstmuth
+
+
+      @InProceedings{elbaff:2020,
+        author =              {Milad Alshomary, Shahbaz Syed, Martin Potthast and Henning Wachstmuth},
+        booktitle =           {The 58th annual meeting of the Association for Computational Linguistics (ACL) },
+        month =               jul,
+        publisher =           {ACL},
+        site =                {Seattle, USA},
+        title =               {{Target Inference in Conclusion Generation}},
+        year =                2020
+      }
+
+-----------------------------------------------
 
 ## Preprocessing
 All scripts for preprocessing the data are in the ``preprocessing`` folder.
