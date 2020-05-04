@@ -5,7 +5,7 @@ This is the code for the paper *Target Inference in Conclusion Generation*.
 Milad Alshomary, Shahbaz Syed, Martin Potthast and Henning Wachstmuth
 
 
-      @InProceedings{elbaff:2020,
+      @InProceedings{alshomary:2020,
         author =              {Milad Alshomary, Shahbaz Syed, Martin Potthast and Henning Wachstmuth},
         booktitle =           {The 58th annual meeting of the Association for Computational Linguistics (ACL) },
         month =               jul,
